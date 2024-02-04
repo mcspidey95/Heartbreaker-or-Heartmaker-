@@ -23,7 +23,7 @@ const phrases = [
   "Is there a 'Maybe' option?",
   "I'll make you a sandwich, even if you're not hungry.",
   "Did someone replace your heart with a stone?",
-  "🥲"
+  "Just close the app 😭",
 ];
 
 function App() {
