@@ -1,4 +1,4 @@
-# Valentine's Day Decision Maker
+# HeartBreaker or HeartMaker?
 
 Welcome to the Valentine's Day Decision Maker! This playful website lets you make a choice between "Yes" and "No" with a touch of humor and emotion.
 
@@ -36,8 +36,8 @@ const phrases = [
 ];
 ```
 
-## Author & ASSistant
+## Author
 
-[spidey](https://github.com/mcspidey95)
+- [mcspidey95](https://github.com/mcspidey95) (Team Lead)
 
-[vivek](https://github.com/ifsvivek)
+- [ifsvivek](https://github.com/ifsvivek) (ASSistant)
