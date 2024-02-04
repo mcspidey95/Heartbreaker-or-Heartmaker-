@@ -10,8 +10,6 @@ const phrases = [
   "I'm gonna cry...",
   "You're breaking my heart 🥹",
   "I'll do anything! Just say yes.",
-  "I'll learn all the words to your favorite song, even if it's in a language I don't understand.",
-  "I'll wear a matching outfit with you on Valentine's Day, no matter how ridiculous it looks.",
   "I'll carry you on my back through the park, even if you're perfectly capable of walking.",
   "I'll give you the last bite of my dessert... every time.",
   "I'll watch every single rom-com with you, even the cheesy ones.",
@@ -22,9 +20,10 @@ const phrases = [
   "But what about our memories?",
   "You're like the cupid who forgot the arrows",
   "This hurts more than a thousand heartbreak songs",
-  "Is this a bad dream? Pinch me!",
   "Is there a 'Maybe' option?",
+  "I'll make you a sandwich, even if you're not hungry.",
   "Did someone replace your heart with a stone?",
+  "🥲"
 ];
 
 function App() {
